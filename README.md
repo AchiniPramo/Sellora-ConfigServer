@@ -1,4 +1,4 @@
-# Sellora Config Server Service
+# Sellora Config Server 
 
 A **centralized configuration management server** built with **Spring Cloud Config**. It serves configuration properties to all microservices in the **Sellora** ecosystem from a single source, enabling environment-specific settings without code changes or redeployment.
 
